@@ -31,7 +31,7 @@ show pdbs;
 This task was about showing that we had configured our enterprise manager and we had to take a screenshot which i provided in my folder assignment2.
 
  ## Challenges.
- Like every assignment it's supposed to challenge us and personally the issues i faced were i managed to find solutions and i give credibility to their work.
+ Like every assignment it's supposed to challenge us and personally the issues i faced i managed to find solutions and i give credibility to their work.
  * **CREATING MULTITENANT DATABASE** : https://www.youtube.com/watch?v=dPHerZHvUyk
  * **HOW TO CREATE A PLUGGABLE DATABASE** : https://www.youtube.com/watch?v=HbLeZjwbZg0
  * **SOME SQL COMMANDS** : https://www.w3schools.com/sql/sql_syntax.asp
