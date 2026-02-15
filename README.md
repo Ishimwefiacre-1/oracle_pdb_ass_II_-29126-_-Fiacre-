@@ -1,4 +1,4 @@
-# oracle_pdb_ass_II_-29126-_-Fiacre-
+# READ.MD
 ## ABOUT
 This assignment is about oracle21c with oracle entreprise manager.
 It teaches how about creation and deletion of pluggable databases in a multitenant architecture
